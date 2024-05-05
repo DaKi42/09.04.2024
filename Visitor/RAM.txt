@@ -1,0 +1,3 @@
+RAM
+Producer: Micron
+Capacity: 32GB

@@ -1,0 +1,4 @@
+HDD
+Producer: Samsung 990 PRO
+Type: NVME SSD
+Volume: 2Tb

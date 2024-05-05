@@ -1,0 +1,4 @@
+Processor
+Producer: AMD Ryzen 9 7940HS
+Frequency: 4 Ghz
+CoreCount: 16

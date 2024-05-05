@@ -1,0 +1,3 @@
+GPU
+Producer: NVIDIA
+Model: RTX 4050
